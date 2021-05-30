@@ -69,4 +69,8 @@ func main() {
 	class.Structs()
 	fmt.Println()
 
+	// pointers
+	fmt.Println("=== Pointers ===")
+	class.Pointers()
+	fmt.Println()
 }
